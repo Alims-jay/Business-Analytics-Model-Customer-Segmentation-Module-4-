@@ -58,7 +58,4 @@ These insights enable **Innovatech Analytics International** to personalize mark
 - **Matplotlib**, **Seaborn** — Visualization  
 - **scikit-learn** — Model development (K-Means, PCA, metrics)  
 
----
-
-## 🔹 Folder Structure  
 
